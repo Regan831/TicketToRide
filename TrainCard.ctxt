@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.params=image1\ color1
+comment0.target=TrainCard(java.awt.image.BufferedImage,\ java.lang.String)
+comment0.text=\r\n\ Constructs\ a\ train\ card\ giving\ it\ an\ image\ and\ a\ color.\r\n\ The\ color\ is\ a\ string\ because\ there\ are\ some\ cards\ with\ \r\n\ colors\ that\ do\ not\ exist\ in\ java\ (brown,\ loco,\ purple,\ etc.)\r\n
+comment1.params=
+comment1.target=java.lang.String\ getColor()
+comment1.text=\r\n\ Gets\ the\ color\ of\ the\ train\r\n\ \r\n\ @return\ the\ color\ in\ String\ form\r\n
+comment2.params=
+comment2.target=java.awt.image.BufferedImage\ getPic()
+comment2.text=\r\n\ Gets\ the\ pictue\ that\ goes\ along\ with\ each\ \r\n\ train\ card\r\n\ \r\n\ @return\ a\ Buffered\ image\ of\ the\ train\ card\r\n
+numComments=3

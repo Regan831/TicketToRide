@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.params=dest\ next
+comment0.target=CityNode(int,\ CityNode)
+comment0.text=\r\n\ Creates\ a\ city\ node\ with\ a\ destination\ and\ the\ next\r\n\ city\ in\ line\r\n\ \r\n\ @param\ dest\ -\ the\ destination\r\n\ @param\ next\ -\ the\ next\ city\ \r\n\ \r\n\ @return\ a\ new\ city\ node\r\n
+comment1.params=dest
+comment1.target=CityNode(int)
+comment1.text=\r\n\ Creates\ a\ city\ node\ with\ a\ destination\ \r\n\ \r\n\ @param\ dest\ -\ the\ destination\r\n\r\n\ @return\ a\ new\ city\ node\r\n
+comment2.params=
+comment2.target=int\ getDest()
+comment2.text=\r\n\ Retrieves\ the\ destination\ of\ a\ city\ node\r\n\ \r\n\ @return\ the\ destination\r\n
+comment3.params=dest
+comment3.target=void\ setDest(int)
+comment3.text=\r\n\ Sets\ the\ destination\ of\ the\ city\ node\r\n\ \r\n\ @param\ dest\ -\ the\ int\ value\ of\ the\ destination\r\n
+comment4.params=e
+comment4.target=void\ setNext(CityNode)
+comment4.text=\r\n\ Sets\ the\ next\ city\ node\r\n\ \r\n\ @param\ e\ -\ the\ city\ node\ that\ will\ follow\r\n\ the\ specified\ cirty\ node\r\n
+comment5.params=
+comment5.target=CityNode\ getNext()
+comment5.text=\r\n\ Retrieves\ the\ next\ city\ node\ in\ line\r\n\ \r\n\ @return\ the\ city\ node\ thats\ next\ in\ line\r\n
+numComments=6

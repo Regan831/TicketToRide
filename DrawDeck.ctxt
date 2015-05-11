@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.params=
+comment0.target=DrawDeck()
+comment0.text=\r\n\ Creates\ the\ initial\ draw\ deck\ of\ cards.\ Contians\ the\r\n\ nine\ different\ cards\ with\ 12\ instances\ of\ each\ and\ 14\r\n\ of\ the\ locomotive\ card.\r\n
+comment1.params=
+comment1.target=TrainCard\ draw()
+comment1.text=\r\n\ Selects\ a\ random\ card\ from\ the\ deck\r\n
+comment2.params=
+comment2.target=boolean\ hasCards()
+comment2.text=\r\n\ Checks\ to\ see\ if\ the\ deck\ is\ empty.\r\n\ \r\n\ @return\ \ True\ if\ the\ deck\ is\ empty\ and\ false\ otherwise\r\n
+comment3.params=
+comment3.target=int\ getSize()
+comment3.text=\r\n\ Checks\ the\ size\ of\ the\ deck\r\n\ \r\n\ @return\ \ The\ integer\ size\ of\ the\ deck\r\n
+comment4.params=c
+comment4.target=void\ add(TrainCard)
+comment4.text=\r\n\ Adds\ a\ new\ TrainCard\ to\ the\ colorCards\ deck.\r\n
+comment5.params=
+comment5.target=java.awt.image.BufferedImage\ getDeckPic()
+comment5.text=\r\n\ Displays\ the\ picture\ of\ the\ deck\ \r\n\ \r\n\ @return\ \ The\ Buffered\ Image\ of\ the\ \r\n
+numComments=6

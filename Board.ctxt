@@ -1,0 +1,26 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Board()
+comment0.text=\n\ The\ Board\ consrtuctor\ creates\ 39\ city\ objects\n\ according\ to\ thier\ position\ on\ the\ board,\n\ places\ them\ into\ an\ array\ to\ keep\ track\ of\ a\ \n\ city\ val.\n\ It\ also\ initializes\ the\ route\ 2D\ array\ holding\n\ the\ single,\ double,\ and\ invalid\ routes\ between\ cities\n
+comment1.params=begin\ end
+comment1.target=int\ getRoute(int,\ int)
+comment1.text=\n\ Method\ that\ returns\ a\ route\n\ \n\ @param\ begin\ is\ the\ first\ city\ location\n\ @param\ end\ is\ the\ end\ city\ location\n\ \n\ @return\ the\ int\ value\ of\ the\ route\n
+comment2.params=begin\ end
+comment2.target=void\ capture(int,\ int)
+comment2.text=\n\ Sets\ a\ route\ to\ captured\n\ \n\ @param\ begin\ is\ the\ first\ city\ location\n\ @param\ end\ is\ the\ end\ city\ location\n
+comment3.params=
+comment3.target=java.util.ArrayList\ getDestDeck()
+comment3.text=\n\ Method\ to\ access\ the\ destination\ deck\n\ \n\ @return\ the\ ArrayList\ of\ destination\ cards\n
+comment4.params=
+comment4.target=java.util.ArrayList\ getLongDestDeck()
+comment4.text=\n\ Method\ to\ access\ the\ long\ destinations\n\ \n\ @return\ the\ ArrayList\ of\ Long\ Dest\ Cards\n
+comment5.params=x\ y
+comment5.target=City\ cityClicked(int,\ int)
+comment5.text=\n\ this\ method\ takes\ the\ x,y\ points\ of\ the\ mouse\ click\n\ and\ returns\ the\ city\ (if\ any)\ that\ the\ mouse\ was\ on\n\ \n\ @param\ x\ is\ the\ x\ value\ of\ the\ mouse\ click\n\ @param\ y\ is\ the\ y\ value\ of\ the\ mouse\ click\n\ @return\ the\ city\ (if\ any)\ corresponging\ to\ the\ point\n
+comment6.params=a\ b
+comment6.target=Route\ getRoute(City,\ City)
+comment6.text=\n\ Method\ to\ retrieve\ a\ specific\ route\ from\ the\n\ routes\ array\n\ \n\ @param\ a\ is\ the\ first\ city\n\ @param\ b\ is\ the\ second\ city\n\ @return\ the\ route\ between\ the\ two\ cities,\ null\n\ if\ there\ is\ none\n
+comment7.params=begin\ end
+comment7.target=java.util.ArrayList\ getArray(City,\ City)
+comment7.text=\n\ Checks\ to\ see\ if\ a\ route\ is\ a\ double\ route\n\ \n\ @param\ begin\ is\ the\ first\ city\n\ @param\ end\ is\ the\ second\ city\n\ @return\ boolean,\ returns\ true\ if\ the\ route\ is\ a\ double\n\ and\ false\ if\ the\ route\ is\ a\ single\n
+numComments=8

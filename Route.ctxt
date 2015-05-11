@@ -1,0 +1,26 @@
+#BlueJ class context
+comment0.params=a\ b\ l\ m\ c\ f
+comment0.target=Route(City,\ City,\ int,\ int,\ java.lang.String,\ boolean)
+comment0.text=\r\n\ Constructor\ for\ a\ route.\ A\ route\ takes\ in\ two\ cities\r\n\ an\ integer\ length,\ an\ integer\ for\ the\ mountain\ count,\r\n\ a\ String\ for\ color\ and\ a\ boolean\ for\ ferries.\r\n\ \r\n\ @param\ a\ -\ the\ first\ city\ \r\n\ @param\ b\ -\ the\ second\ city\r\n\ @param\ l\ -\ the\ length\ of\ the\ route\r\n\ @param\ m\ -\ the\ number\ of\ mountains\r\n\ @param\ c\ -\ the\ color\ of\ the\ route\r\n\ @param\ f\ -\ true\ if\ the\ route\ has\ ferries\ and\ false\r\n\ otherwise\r\n\ \r\n
+comment1.params=
+comment1.target=int\ getLength()
+comment1.text=\r\n\ Retrieves\ the\ length\ of\ the\ path\ plus\ any\ mountains\r\n\ \r\n\ @return\ the\ length\ of\ the\ path\r\n
+comment2.params=
+comment2.target=int\ getMountains()
+comment2.text=\r\n\ Retrieves\ the\ number\ of\ mountains\ a\ route\ has\r\n\ \r\n\ @return\ the\ number\ of\ mountains\r\n
+comment3.params=
+comment3.target=int\ getValue()
+comment3.text=\r\n\ Retrieves\ the\ score\ that\ coincides\ with\ a\ specific\ route\r\n\ depending\ on\ its\ length,\ mountains\ and\ ferries.\ Does\ not\r\n\ return\ the\ length\ of\ the\ route\r\n\ \r\n\ @return\ an\ integer\ value\ of\ the\ score\r\n
+comment4.params=
+comment4.target=java.lang.String\ getCityA()
+comment4.text=\r\n\ Retrieves\ the\ name\ of\ the\ first\ city\r\n\ \r\n\ @return\ the\ string\ name\ of\ the\ city\r\n
+comment5.params=
+comment5.target=java.lang.String\ getCityB()
+comment5.text=\r\n\ Retrieves\ the\ name\ of\ the\ second\ city\r\n\ \r\n\ @return\ the\ string\ name\ of\ the\ city\r\n
+comment6.params=
+comment6.target=java.lang.String\ getColor()
+comment6.text=\r\n\ Retrieves\ the\ color\ of\ the\ first\ city\r\n\ \r\n\ @return\ the\ color\ of\ the\ city\ in\ string\ form\r\n
+comment7.params=
+comment7.target=boolean\ isFerry()
+comment7.text=\ \r\n\ Checks\ to\ see\ if\ a\ route\ is\ a\ ferry\ route\ or\ not\r\n\ \r\n\ @return\ -\ true\ if\ the\ route\ is\ a\ ferry\ route\ \r\n\ and\ false\ otherwise\r\n
+numComments=8

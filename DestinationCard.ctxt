@@ -1,0 +1,23 @@
+#BlueJ class context
+comment0.params=p\ v\ a\ b
+comment0.target=DestinationCard(java.lang.String,\ int,\ City,\ City)
+comment0.text=\n\ Constructor\ for\ a\ Destination\ card\n\ \n\ @param\ p\ -\ the\ path\n\ @param\ v\ -\ the\ amount\ of\ points\ it's\ worth\n\ @param\ a\ -\ first\ city\ connected\n\ @param\ b\ -\ second\ city\ connected\n\ \n
+comment1.params=
+comment1.target=boolean\ pathCompleted()
+comment1.text=\n\ Checks\ to\ see\ if\ the\ playe\ successfully\ \n\ completed\ a\ destination\ card\n\ \n\ @return\ true\ if\ the\ path\ was\ completed\ and\n\ false\ if\ it\ wasn't\n
+comment2.params=
+comment2.target=int\ getValue()
+comment2.text=\n\ Retrieves\ the\ point\ value\ of\ a\ \n\ destination\ card\n\ \n\ @return\ the\ value\ of\ the\ card\n
+comment3.params=
+comment3.target=void\ completed()
+comment3.text=\n\ Sets\ a\ destination\ card\ to\ completed\n
+comment4.params=
+comment4.target=java.lang.String\ getPath()
+comment4.text=\n\ Retreives\ the\ path\ of\ the\ destination\n\ card.\n\ \n\ @return\ the\ String\ value\ of\ the\ path\n
+comment5.params=
+comment5.target=City\ getFirstCity()
+comment5.text=\n\ Gets\ the\ first\ city\n\ \n\ @return\ the\ first\ city\n
+comment6.params=
+comment6.target=City\ getSecondCity()
+comment6.text=\n\ Gets\ the\ second\ city\n\ \n\ @return\ the\ second\ city\n
+numComments=7

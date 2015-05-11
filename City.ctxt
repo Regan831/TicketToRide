@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.params=n\ xCor\ yCor\ v
+comment0.target=City(java.lang.String,\ int,\ int,\ int)
+comment0.text=\r\n\ Constrcts\ a\ city\r\n\ \r\n\ @param\ n,\ the\ string\ name\ for\ the\ city\r\n\ @param\ xCor,\ sets\ the\ x\ coordinate\r\n\ @param\ yCor,\ sets\ the\ y\ coordinate\r\n
+comment1.params=
+comment1.target=java.lang.String\ getName()
+comment1.text=\r\n\ Accessor\ method\ to\ retrieve\ the\ city's\ name\r\n\ @return,\ returns\ the\ city's\ name\r\n
+comment2.params=
+comment2.target=int\ getX()
+comment2.text=\r\n\ Accessor\ method\ to\ retrieve\ the\ city's\ x\r\n\ coordinate\r\n\ @return,\ returns\ the\ city's\ x\r\n
+comment3.params=
+comment3.target=int\ getY()
+comment3.text=\r\n\ Accessor\ method\ to\ retrieve\ the\ city's\ y\r\n\ coordinate\r\n\ @return,\ returns\ the\ city's\ y\r\n
+comment4.params=
+comment4.target=int\ getCityVal()
+comment4.text=\r\n\ Gets\ the\ value\ of\ the\ city\r\n\ \r\n\ @return\ the\ value\ of\ the\ city\ \r\n
+comment5.params=eX\ eY
+comment5.target=boolean\ isSelected(int,\ int)
+comment5.text=\r\n\ Boolean\ to\ chack\ and\ see\ if\ the\ city\ has\ been\r\n\ selected\ on\ the\ map\r\n\ \r\n\ @param\ eX,\ the\ x\ coordiante\ of\ the\ city\r\n\ @patam\ eY,\ the\ y\ coordinate\ of\ the\ city\r\n\ \r\n\ @return,\ returns\ true\ if\ the\ city\ is\ selected\r\n\ and\ false\ otherwise\r\n
+numComments=6
