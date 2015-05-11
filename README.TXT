@@ -19,7 +19,6 @@ Paul Cherrier
 Ryan Egan
 Anna Grant
 Jordan Holoboski
-Mary Ritchie
 
 USER INSTRUCTIONS:
 
@@ -96,12 +95,6 @@ And if there's still a tie, no one wins!
 
 Cheats and Easter Eggs:
 Begin the game with one of these names for an easter egg or cheat.
-
-Fluttershy - In the bottom right corner, Fluttershy will appear on 
-your turn.
-
-Applejack - In the bottom right corner, Applejack will appear on 
-your turn.
 
 Show me the money - Begin the game with 5000 locomotives.
 
